@@ -2,6 +2,8 @@
 
 Group project workspace for studying CVE-2025-29927.
 
+Verification-only branch: exercise the identity gate without student data. This change must not be merged.
+
 Maintainer: [@sodiptabadiabanurea](https://github.com/sodiptabadiabanurea).
 
 ## Contributing
